@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+neo4j
+numpy
+langchain
+openai
+pydantic
+psycopg2-binary
+sqlalchemy

@@ -8,7 +8,7 @@
 ![alt text](https://img.shields.io/badge/LangChain-LLM_Agent-black?style=for-the-badge)
  Overview
 OmniPrep is the "AI Brain" microservice for an adaptive, cross-domain learning platform (integrated with a Node.js/Moodle frontend). Standard testing platforms use static, linear progression. This project implements a Neuro-Symbolic architecture, merging probabilistic mathematics with graph theory and Generative AI to create a truly adaptive Intelligent Tutoring System (ITS).
-📐 Architectural Components
+ Architectural Components
 Probabilistic State Tracking (Markov Chains):
 Student proficiency and question difficulty are not arbitrarily assigned. They are tracked via a Markov Decision Process (MDP). A transition matrix calculates the mathematical probability of a student advancing or regressing based on real-time answer correctness.
 Adaptive Decision Tree (Neo4j Graph RAG):
